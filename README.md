@@ -109,7 +109,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00a8ff&center=true&width=600&lines=⭐+Like+my+Profile+⭐;Star+My+Repositories+⭐;Thank+you+for+visiting!+⭐" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00a8ff&center=true&width=600&lines=+Like+my+Profile+;Star+My+Repositories+;Thank+you+for+visiting!+" />
 </p>
 
 
