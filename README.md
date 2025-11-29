@@ -41,7 +41,7 @@
 <p align="center">
   <!-- Facebook -->
   <a href="https://www.facebook.com/sasitha.sps" target="_blank">
-    <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" width="45" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" />
   </a>
 
   <!-- Instagram -->
