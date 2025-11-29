@@ -1,6 +1,6 @@
 <!-- 🎨 DARK BLUE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=250&section=header&text=Sasitha%20Gajendra%20(SPS)&fontSize=55&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=250&section=header&text=Hi,%20I'm%20Sasitha%20Gajendra&fontSize=55&fontColor=ffffff&fontAlignY=40" />
 </p>
 
 <!-- Dynamic Greeting -->
@@ -8,8 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=00a8ff&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Have+a+productive+day+💻✨" />
 </h2>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00a8ff;">Sasitha Gajendra</span></h1>
-<h3 align="center">🚀 Frontend Developer | Designer | Content Creator</h3>
+<!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <span style="color:#00a8ff;">Sasitha Gajendra</span></h1> -->
+<h3 align="center"><img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> Frontend Developer | Designer | Content Creator</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -18,14 +18,16 @@
 
 <!-- Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasitha-sps&label=Profile+Views&color=00a8ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sasitha-sps&label=Profile+Views&color=00a8ff&style=flat-square"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-- 🎓 Studying **BIT — University of Colombo (UCSC)**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+- 🎓 Studying **[BIT](https://www.bit.lk/) — [University of Colombo (UCSC)](https://gcct.ucsc.cmb.ac.lk/)**
 - 💻 Passionate about **Web Development & Modern UI**
 - 🎨 Skilled in **Designing & Video Editing**
 - 🎬 Tools: **Photoshop, Premiere Pro, CapCut**
@@ -34,12 +36,12 @@
 
 ---
 
-## 🌐 Connect with Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Connect with Me
 
 <p align="center">
   <!-- Facebook -->
   <a href="https://www.facebook.com/sasitha.sps" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" />
+    <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" width="45" />
   </a>
 
   <!-- Instagram -->
@@ -54,13 +56,13 @@
 
   <!-- YouTube -->
   <a href="https://youtube.com/@sasithagajendra" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="65" />
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="45" />
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack & Tools
 
 <p align="center">
 
@@ -86,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> GitHub Stats
 
 <p align="center">
   <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=sasitha-sps&show_icons=true&theme=tokyonight" /> -->
@@ -100,10 +102,22 @@
 ---
 
 ## 🎨 Quote  
-> *"Code is like art — the more you write, the better it becomes."*
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 ---
 
 <p align="center">
-  ⭐ **If you like my profile, feel free to star my repositories!** ⭐
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00a8ff&center=true&width=600&lines=⭐+Like+my+Profile+⭐;Star+My+Repositories+⭐;Thank+you+for+visiting!+⭐" />
 </p>
+
+
+<!-- 🌊 THEMED FOOTER -->
+<div align="center" width="100%">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0a3d62&height=120&section=footer"
+    alt="footer"
+  />
+</div>
+
