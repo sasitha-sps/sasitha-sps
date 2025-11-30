@@ -39,6 +39,12 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Connect with Me
 
 <p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sasitha-gajendra-602b921b3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
   <!-- Facebook -->
   <a href="https://www.facebook.com/sasitha.sps" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" />
@@ -47,11 +53,6 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/sps_sasitha" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sasitha-gajendra-602b921b3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 
   <!-- YouTube -->
