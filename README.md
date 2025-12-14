@@ -96,9 +96,9 @@
   <img height="180" src="https://streak-stats.demolab.com?user=sasitha-sps&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sasitha-sps&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</p> -->
 
 ---
 
